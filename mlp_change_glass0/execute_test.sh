@@ -1,0 +1,1 @@
+python test.py train_file_name=../1_year_data/glass0_train.csv test_file_name=../1_year_data/glass0_test.csv model_record_path=../1_year_result/model_1/ file_record_path=../1_year_result/record_1/ method_name=change_loss scaler_name=scaler_1.m model_name=model_1 record_name=test_result_1.csv
